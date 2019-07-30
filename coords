@@ -1,0 +1,22 @@
+F-###
+Detail:
+Assigend: 
+Status: {Assigned,InProgress,Completed}
+
+V-###
+Detail:
+Action:
+Assigned:
+Status: {Assigned,InProgress,Completed}
+
+D-###
+Detail:
+Assigned:
+Status: {Assigned,InProgress,Completed}
+
+A-###
+Detail:
+Action:
+Control:
+Assigned:
+Status: {Assigned,InProgress,Completed}

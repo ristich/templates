@@ -1,0 +1,5 @@
+Label: V-###
+Found: {Hostname,IP,Path,File}
+Desc: {How to find / exploit}
+Fix : {Y/N,detail}
+Action:

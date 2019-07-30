@@ -1,0 +1,4 @@
+Label: A-###
+IOC Detail: {IP_host_to_block,Username_to_ban,Artifact_to_remove}
+Action Request:  {Block,Disable,Remove_file}
+Control: {Firewall, DC, host, application}
